@@ -9,3 +9,15 @@ Requirements
 ------------
 
 pygame
+
+Running
+-------
+
+    $ python game.py
+
+Use the arrow keys to play:
+
+-   Left Arrow : Move tetronimo block to the left.
+-   Right Arrow : Move tetronimo block to the right.
+-   Down Arrow : Drop tetronimo block down faster.
+-   Up Arrow : Rotate the tetronimo block 90 degrees.
